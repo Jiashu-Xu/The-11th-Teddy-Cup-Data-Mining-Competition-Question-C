@@ -1,0 +1,1 @@
+先试用preprocessing进行预处理，生成result1-1_num，result1-2_num，在用问题三的代码
